@@ -8,12 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "我的作品"
-    url: /publications/
-
-  - title: "演讲记录"
-    url: /talks/    
-
+ 
   - title: "项目作品"
     url: /portfolio/
         

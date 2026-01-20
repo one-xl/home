@@ -8,41 +8,30 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+教育经历
 ======
 * B.S. in Guangzhou, JiNan University, 2023-2027
 
-Work experience
+工作经验
 ======
-
+村委实习。
   
-Skills
+技能
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 技能 1
+* 技能 2
+* 技能 3
 
-Publications
+作品
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
+服务和领导力
 ======
-* Currently signed in to 43 different slack teams
+* 广州添柴科技有限公司创始人。
